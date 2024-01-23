@@ -10,6 +10,7 @@ I'm an enthusiastic in business analytics, grounded in a robust mathematical fou
 * 🧠  I'm learning Python, Synthetic data generators, R Language
 * 🤝  I'm open to collaborating on Groundbreaking projects that harness the full potential of data. In my free time, I delve into the latest analytics advancements, hone my Python coding skills, and stay curious about emerging technologies.
 * ⚡  Let's connect! Feel free to reach out on LinkedIn for discussions on analytics, data science, or opportunities to collaborate. I'm always open to new challenges and learning experiences!
+* [Portfolio](https://github.com/neetu4595/Portfolio)
 
 ### Skills
 
